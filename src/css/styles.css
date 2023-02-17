@@ -1,0 +1,15 @@
+th, td {
+	
+	padding:  5px;
+	text-align: center;
+}
+td {
+	padding-top: 2px;
+
+}
+.header {
+	color: white;
+	width: 100%;
+	background-color: darkblue;
+	padding: 15px;
+}
